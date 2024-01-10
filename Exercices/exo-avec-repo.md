@@ -29,11 +29,11 @@ L'objectif et de réaliser un versionning avec des branches.
 
 ## Étape 2 : Créez la structure du projet 
 
-1. Créez le dossier ``**riding-cities**``
-2. Dans le dossier ``**riding-cities**``, créez les dossiers ``**css**``, ``**documents**``, ``**images**`` et le fichier ``**index.html**``
-3. Dans le dossier ``**css**``, téléchargez le fichier ``**style.css**``
-4. Téléchargez dans le dossier ``**documents**``, les fichiers pdf ``**planning-adultes.pdf**`` et ``**planning-enfants.pdf**``
-5. Téléchargez dans le dossier ``**images**`` les images ``**header.png**``, ``**marc.png**``, ``**pedro.png**`` et ``**soraya.png**`` depuis [ la maquette figma](https://www.figma.com/file/zGXDzCQkosimKh08RlzUU2/Maquettes-Ride-Cities---Desktop?type=design&node-id=0%3A1&mode=design&t=kOwbqYRo7N7Mh66N-1). 
+1. Créez le dossier ``riding-cities``
+2. Dans le dossier ``riding-cities``, créez les dossiers ``css``, ``documents``, ``images`` et le fichier ``index.html``
+3. Dans le dossier ``css``, téléchargez le fichier ``style.css``
+4. Téléchargez dans le dossier ``documents``, les fichiers pdf ``planning-adultes.pdf`` et ``planning-enfants.pdf``
+5. Téléchargez dans le dossier ``images`` les images ``header.png``, ``marc.png``, ``pedro.png`` et ``soraya.png`` depuis [ la maquette figma](https://www.figma.com/file/zGXDzCQkosimKh08RlzUU2/Maquettes-Ride-Cities---Desktop?type=design&node-id=0%3A1&mode=design&t=kOwbqYRo7N7Mh66N-1). 
 
 **Si vous n'arrivez pas à réaliser le point 5, alors télécharger le repository et récupérer les images.**
 
@@ -55,7 +55,7 @@ Vous allez réaliser du versonning à partir de la branche ``develop``. A partir
 
 ## Étape 5 : Créez la structure HTML du fichier **``index.html``**
 
-1. Ouvrez le dossier **``riding-cities`**` dans votre IDE favoris (exemple VS Code)
+1. Ouvrez le dossier **``riding-cities``** dans votre IDE favoris (exemple VS Code)
 2. Ouvrez le fichier **``index.html``** et insérez la structure de base HTML5
 3. Indiquez la langue **``fr``** dans l'attribut ``lang`` de la balise ``html``
 
